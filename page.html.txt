@@ -1,0 +1,75 @@
+<html>
+<head>
+
+<link  rel="stylesheet" type ="text/css" href="css/style.css"></link>
+
+</head>
+<body>
+<div class ="container"></div>
+<div class ="page">
+
+<div class="headerpart">
+<!--banner-->
+<div id="banner">
+<img src ="file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website/img/header.gif.png" alt="banner" width ="1300px" height="445px" align="middle">
+</div>
+</div>
+<div class="linkspart">
+<center>
+   <a href="home.html"><strong>Home</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>Courses</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>Contact</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>About </strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>Acadamics</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>Infrastructure</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="home.html"><strong>Fee Strucure</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+</center>
+</div>
+<div class="bodypart" align ="right">
+
+<div class="imagepart" align="left">
+<h1 align="center">College Gallery</h1>
+<img src="file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website/img/C.png" width ="410" height="218" align ="left">
+
+<img src="file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website/img/college1.png" width ="477" height="220" align ="top">
+<img src="file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website/img/college2.png" width ="412" height="200" align ="top">
+<img src="file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website/img/college3..png" width ="473" height="200" align ="top">
+</style>
+</div>
+<div class="newspart">
+<center>
+<h2>News & Events</h2>
+</center>
+<div class="news">
+<marquee direction="up" height="100%">
+<hr>
+<h4>About the College</h4>
+<p>This is a best goverment college in my city.
+ This college is for both science and art student.
+ Campus of this college is very butyful.
+ As well as faculties are very supportive and motivative.
+ And infrasturucture of this college is also very comfortable.</p>
+<hr>
+
+
+<h4>About the Hoster who design this website. </h4><br>
+<p>My name is Muhammad irshad and i am from bareilly (UP).
+I am pursusing my MCA from National Institue Technology 
+of Agartala. Iam going to make my first website.
+I am making it for my webtechnology project in my MCA 1st semester.
+</p>
+<hr>
+</marquee>
+</div>
+</div>
+<h3>MY FIRST WEBSITE </h3>
+<p>By Mr. Irshad in 2022</p>
+</div>
+<div class="footerpart">
+<center>1000000</center>
+</div>
+
+</div>
+
+</body>
+</html>

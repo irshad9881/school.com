@@ -1,0 +1,109 @@
+.page{
+width:1300px;
+height:auto;
+border-style:groove;
+}
+
+.headerpart
+{
+width:1300px;
+height:450px;
+border-style:groove;
+background-color:red;
+
+background-image:url("file:///C:/Users/MOHAMMAD%20IRSHAD/Desktop/website1/img/college1.png");
+background-repeat:no-repeat;
+}
+.linkspart
+{
+width:1300px;
+height:40px;
+margin-top:5px;
+background-color:blue;
+
+border-style:groove;
+
+}
+.linkspart a
+{
+color:white;
+text-decoration:none;
+}
+.linkspart a:hover
+{
+background-color:white;
+color:red;
+
+}
+.bodypart
+{
+width:1300px;
+height:860px;
+border-style:groove;
+margin-top:5px;
+
+}
+.bodypart .imagepart
+{
+width:800px;
+height:850px;
+border-style:groove;
+background-image:url('file:///C:/Users/MOHAMMAD%20IRSHAD/Pictures/2.jpg');
+background-repeat:no-repeat;
+display:inline-block;
+
+float:left;
+}
+.bodypart .newspart
+{
+width:400px;
+height:770px;
+border-style:groove;
+flaot:middle;
+}
+.bodypart .newspart h2
+{
+color:red;
+}
+.boypart .newspart .news
+{
+width:100px;
+heght:100px;
+
+}
+.bodypart .newspart .news h4
+{
+color:blue;
+}
+.bodypart h3
+{
+corol:blue;
+text-align:center;
+ 
+}
+
+.footerpart
+{
+width:1300px;
+height:40px;
+margin-top:2px;
+background-color:blue;
+
+border-style:groove;
+}
+.headerpart .banner
+{
+width:100px;
+height:100px;
+}
+
+.bodypart .infopart
+{
+width:800px;
+height:200px;
+float:left;
+}
+
+
+
+
